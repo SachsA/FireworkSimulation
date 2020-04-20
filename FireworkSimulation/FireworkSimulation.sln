@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FireworkSimulation", "FireworkSimulation.vcxproj", "{8126ADF4-A8EA-4166-A68A-793C1785F3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8126ADF4-A8EA-4166-A68A-793C1785F3E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8126ADF4-A8EA-4166-A68A-793C1785F3E4}.Debug|Win32.Build.0 = Debug|Win32
+		{8126ADF4-A8EA-4166-A68A-793C1785F3E4}.Release|Win32.ActiveCfg = Release|Win32
+		{8126ADF4-A8EA-4166-A68A-793C1785F3E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF040B82-7DAF-467A-AE9A-956675CECC9E}
+	EndGlobalSection
+EndGlobal
